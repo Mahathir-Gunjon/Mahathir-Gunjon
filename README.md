@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahathir Gunjon</h1>
 <h3 align="center">A passionate frontend and junior MERN stack developer from Rangpur, Bangladesh</h3> 
 
-<img align="center" width="100%" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="right" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahathir-gunjon&label=Profile%20views&color=0e75b6&style=flat" alt="mahathir-gunjon" /> </p>
 
